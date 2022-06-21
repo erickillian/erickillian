@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Eric</h1>
+<h1 align="center">Hi there <img src="./assets/wave.gif" width="15px"> I'm Eric</h1>
 
 🙋‍♂️ All about me is at **[My Website](https://erickillian.github.io)**
 <!-- 🔭 I’m currently working on ... -->
