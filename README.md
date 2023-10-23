@@ -14,7 +14,7 @@
 <!-- 📫 How to reach me:  -->
 ⚡ Fun fact: I was Time magazine's Person of the Year in 2006
 
-💤 Bored?: I made my own social media site!  Check it out by signing up at **[socialriver.dev](https://socialriver.dev)**
+<!-- 💤 Bored?: I made my own social media site!  Check it out by signing up at **[socialriver.dev](https://socialriver.dev)** -->
 
 
 <h6 align="left">Languages and Tools I am comfortable regularly using:</h6>
