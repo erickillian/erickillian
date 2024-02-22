@@ -1,9 +1,6 @@
 <h1 align="center">
     Hi there <img src="./assets/wave.gif" width="40" height="40"> I'm Eric
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erickillian&label=Profile%20views&color=0e75b6&style=flat" alt="erickillian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickillian" alt="erickillian" /></a> </p>
 
 - 🔭 I’m currently working on [my django-dating-app](https://www.linkedin.com/in/eric-killian/)
 
