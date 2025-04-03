@@ -2,11 +2,7 @@
     Hi there <img src="./assets/wave.gif" width="40" height="40"> I'm Eric
 </h1>
 
-- 🔭 I’m currently working on my [django-dating-app](https://github.com/erickillian/django-dating-app)
-
 - 👨‍💻 All of my projects are available at [erickillian.dev](erickillian.dev)
-
-- 📫 How to reach me **erickill@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
