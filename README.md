@@ -2,7 +2,7 @@
     Hi there <img src="./assets/wave.gif" width="40" height="40"> I'm Eric
 </h1>
 
-- 👨‍💻 All of my projects are available at [erickillian.dev](erickillian.dev)
+- 👨‍💻 All of my projects are available at [erickillian.dev](https://erickillian.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
